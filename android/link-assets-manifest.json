@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/images/group264.png",
+      "sha1": "6b7015859a43d58c7e95c53b14c8e1962cc73181"
+    },
+    {
+      "path": "assets/images/group329.png",
+      "sha1": "713d102d079f6926af8a366b8b7d135c41ba8ea5"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "assets/fonts/Muli-Bold.ttf",
+      "sha1": "a1dffa6c71615fb4bdd2140aad896139a220728e"
+    }
+  ]
+}
